@@ -40,8 +40,8 @@ def send_otp(email, otp):
     # Replace the placeholders with your SMTP server details
     smtp_server = 'smtp.gmail.com'
     smtp_port = 587
-    smtp_username = 'dipsubha.co@gmail.com'
-    smtp_password = 'fjcnclsjrmxrfayj'
+    smtp_username = 'Your Mail Address'
+    smtp_password = 'Your mail Password'
 
     sender_email = 'your_email@example.com'
     receiver_email = email
