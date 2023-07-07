@@ -1,16 +1,16 @@
 # ChatBot-Python
 ChatBot in Python
 
-This Codes is tested in Google Colab
+This Code is tested in Google Colab
 Google Colab Website -
 ```
 https://colab.google/
 ```
 
 
-Intall Packages
+Install Packages
 
-
+Please make sure to have the bcrypt module installed  before running the code.
 ```
 pip install bcrypt
 ```
